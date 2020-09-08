@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "703673708425",
+    "firebase_url": "https://text-recognition-bdad7.firebaseio.com",
+    "project_id": "text-recognition-bdad7",
+    "storage_bucket": "text-recognition-bdad7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703673708425:android:ae3896374d043b1d5c3b58",
+        "android_client_info": {
+          "package_name": "com.textrecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703673708425-4gubhji1f7s5l1067aj2gabtckr80jvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.textrecognition",
+            "certificate_hash": "5264526adcd9d9b62e7c57dc502b8e79726f9bea"
+          }
+        },
+        {
+          "client_id": "703673708425-oj3u10l7i4473a45slo26pgkqvp9pikb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49rkAeMZGNQAIuPvyyEN4dl9evRCNsmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703673708425-oj3u10l7i4473a45slo26pgkqvp9pikb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
