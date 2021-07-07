@@ -1,4 +1,4 @@
-# textrecognition
+# Scan Anything APP
 
 A new Flutter application.
 
